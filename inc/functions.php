@@ -1,6 +1,6 @@
 <?php
-define('DB_NAME', '/var/www/html/php/crud/data/db.txt');
-define('DB_USER', '/var/www/html/php/crud/data/users.txt');
+define('DB_NAME', '/data/db.txt');
+define('DB_USER', '/data/users.txt');
 
 // Data Seeding
 function seed(){
