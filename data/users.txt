@@ -1,0 +1,1 @@
+[{"r_id":1,"r_username":"admin","user":"admin","r_password":"admin"},{"r_id":2,"r_username":"bayazid","user":"editor","r_password":"admin"},{"r_id":3,"r_username":"hasan","user":"editor","r_password":"admin"}]
